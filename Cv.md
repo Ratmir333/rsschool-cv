@@ -1,8 +1,6 @@
 # rsschool-cv
-# Hi, I'm Ratmir 👋
-Senior Software Engineer with more than 5 years of commertial experience. I have excellent knowledge in backend development on Java.
-In general worked with monolitic, microservice and serverless arthitectures. Big part of my acitities is open-source.
-
+# Hi, I'm Kilmetov Ratmir 👋
+I'm design engineer. I've elementary knowladge in HTML & CSS.
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true"><img
            height=150
