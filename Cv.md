@@ -1,6 +1,6 @@
 # rsschool-cv
 # Hi, I'm Kilmetov Ratmir 👋
-I'm design engineer. I've elementary knowladge in HTML & CSS.
+I'm design engineer. I've basic knowladge in HTML & CSS.
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true"><img
            height=150
